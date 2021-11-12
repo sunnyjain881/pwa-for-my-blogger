@@ -1,0 +1,23 @@
+ {
+    "name": "Jain Kirana Store",
+    "short_name": "Jain Kirana Store",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjwwn515naSpWF8t4bI7yA3M4s8FGPwAmzftPp-kGxh_QyPawLIkUuWB9E2AAOV8TkEYgjxXljXm7Q74sV5gsCg9TbwGJo5AVgmtHt8MQ3xzhsJVz5Py0RPSjmoVZJeGJQCf-bZUPgSecxxPkkIbQzQC6BuuyiU_RxO_fo2FmzHF-WzFZXsbdKZ8L0TMw=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhUbF6-5JbtRl2qEKo2bE5gnQd3pB1tKIWpIEo8PRCWmrO1CtvZIMtcJvgSeuWugZCrOxIjbS09SLbAGJGhbJ5KLdV0NEtluuII5OSmiLMYQDe34MzpYM7i3Yg8is6Au7Pij_wXqtvXv2K-RVwU_hZX8P5MOSjjv0jXK7QV54mr_ICGWvh3oktxnRRn5Q=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://jainkiranastore.blogspot.com/"
+}
